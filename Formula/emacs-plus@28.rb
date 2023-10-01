@@ -8,7 +8,7 @@ class EmacsPlusAT28 < EmacsBase
   env :std
 
   head do
-    url "https://github.com/emacs-lsp/emacs.git", :branch => "emacs-28"
+    url "https://github.com/emacs-lsp/emacs.git", :branch => "json-rpc"
   end
 
   #
